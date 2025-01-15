@@ -1,8 +1,8 @@
 package = "xml"
-version = "1.1.3-1"
+version = "master-1"
 source = {
   url = 'git://github.com/lubyk/xml',
-  tag = 'REL-1.1.3',
+  branch  = 'master',
   dir = 'xml',
 }
 description = {
